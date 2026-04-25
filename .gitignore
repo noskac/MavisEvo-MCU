@@ -1,0 +1,10 @@
+# Folder build dan library sementara PlatformIO
+.pio/
+
+# Pengaturan IDE lokal (VS Code)
+.vscode/
+.idea/
+
+# File temporary OS
+.DS_Store
+Thumbs.db
