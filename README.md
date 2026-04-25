@@ -8,5 +8,5 @@
 * **Supported Boards:** ESP32 Dev Module, Teensy 4.1
 
 ---
-*Developed by Andaru Wicaksono.*
-*Special credit to Bismaka Shasiska*
+*Developed by Andaru Wicaksono and MavisEvo team.*
+*Special credit to Bismaka Shasika*
