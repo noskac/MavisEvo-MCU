@@ -9,3 +9,4 @@
 
 ---
 *Developed by Andaru Wicaksono.*
+*Special credit to Bismaka Shasiska*
