@@ -9,4 +9,4 @@
 
 ---
 *Developed by Andaru Wicaksono and MavisEvo team.*
-*Special credit to Bismaka Shasika*
+*Special credit to Bismaka Sahasika*
